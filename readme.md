@@ -1,7 +1,7 @@
 ## Openshift Laravel Quickstart
 
-This quickstart is intended to make easy to develop Laravel 4 application on Openshift.
+This quickstart Scaffolds a new Laravel 4 application with Laravel IDE Helper and Jeffrey Way's Laravel 4 Generators.
 
 ### Cartridge
 
-This quickstart is make to work on Zend Server cartridge and on the standard PHP 5.3 cartridge.
+Pick a standard Zend Server or PHP 5.3 cartridge and enter the GIT url for this quickstart scaffold.
