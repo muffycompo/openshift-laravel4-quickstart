@@ -9,5 +9,5 @@ Pick a standard Zend Server or PHP 5.3 cartridge and enter the GIT url for this 
 ### House Keeping
 Make sure you add the following to the Service Providers section of your app/config/app.php file
 
-'Way\Generators\GeneratorsServiceProvider',
-'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
+        'Way\Generators\GeneratorsServiceProvider',
+        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
